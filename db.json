@@ -1,0 +1,148 @@
+{
+  "states": [
+    {
+      "id": 1,
+      "name": "AGUASCALIENTES"
+    },
+    {
+      "id": 2,
+      "name": "BAJA CALIFORNIA NORTE"
+    },
+    {
+      "id": 3,
+      "name": "BAJA CALIFORNIA SUR"
+    },
+    {
+      "id": 4,
+      "name": "CAMPECHE"
+    },
+    {
+      "id": 5,
+      "name": "CHIAPAS"
+    },
+    {
+      "id": 20,
+      "name": "OAXACA"
+    },
+    {
+      "id": 27,
+      "name": "TABASCO"
+    },
+    {
+      "id": 30,
+      "name": "VERACRUZ"
+    },
+    {
+      "id": 31,
+      "name": "YUCATÁN"
+    },
+    {
+      "id": 32,
+      "name": "ZACATECAS"
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "abbr": "AGS",
+      "city-id": 1,
+      "name": "AGUASCALIENTES"
+    },
+    {
+      "id": 2,
+      "abbr": "BCN",
+      "city-id": 1,
+      "name": "ENSENADA"
+    },
+    {
+      "id": 2,
+      "abbr": "BCN",
+      "city-id": 2,
+      "name": "MEXICALI"
+    },
+    {
+      "id": 2,
+      "abbr": "BCN",
+      "city-id": 3,
+      "name": "ROSARITO"
+    },
+    {
+      "id": 2,
+      "abbr": "BCN",
+      "city-id": 4,
+      "name": "TECATE"
+    },
+    {
+      "id": 2,
+      "abbr": "BCN",
+      "city-id": 5,
+      "name": "TIJUANA"
+    },
+    {
+      "id": 3,
+      "abbr": "BCN",
+      "city-id": 1,
+      "name": "LA PAZ"
+    },
+    {
+      "id": 3,
+      "abbr": "BCS",
+      "city-id": 2,
+      "name": "CABO SAN LUCAS"
+    },
+    {
+      "id": 3,
+      "abbr": "BCS",
+      "city-id": 3,
+      "name": "LORETO"
+    },
+    {
+      "id": 3,
+      "abbr": "BCS",
+      "city-id": 4,
+      "name": "SAN JOSÉ DEL CABO"
+    },
+    {
+      "id": 20,
+      "abbr": "OAX",
+      "city-id": 1,
+      "name": "OAXACA"
+    },
+    {
+      "id": 20,
+      "abbr": "OAX",
+      "city-id": 2,
+      "name": "CD. IXTEPEC"
+    },
+    {
+      "id": 20,
+      "abbr": "OAX",
+      "city-id": 3,
+      "name": "SAN JUAN GUICHICOVI"
+    },
+    {
+      "id": 20,
+      "abbr": "OAX",
+      "city-id": 4,
+      "name": "JALAPA DE MARQUÉS"
+    },
+    {
+      "id": 30,
+      "abbr": "VER",
+      "city-id": 1,
+      "name": "JALAPA"
+    },
+    {
+      "id": 30,
+      "abbr": "VER",
+      "city-id": 2,
+      "name": "VERACRUZ"
+    },
+    {
+      "id": 30,
+      "abbr": "VER",
+      "city-id": 3,
+      "name": "COATZACOALCOS"
+    }
+  ]
+}
