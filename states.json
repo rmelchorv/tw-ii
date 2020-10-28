@@ -1,0 +1,46 @@
+{
+  "data": {
+    "states": [
+      {
+        "id": 1,
+        "name": "Aguascalientes"
+      },
+      {
+        "id": 2,
+        "name": "Baja California Norte"
+      },
+      {
+        "id": 3,
+        "name": "Baja California Sur"
+      },
+      {
+        "id": 4,
+        "name": "Campeche"
+      },
+      {
+        "id": 5,
+        "name": "Chiapas"
+      },
+      {
+        "id": 20,
+        "name": "Oaxaca"
+      },
+      {
+        "id": 27,
+        "name": "Tabasco"
+      },
+      {
+        "id": 30,
+        "name": "Veracruz"
+      },
+      {
+        "id": 31,
+        "name": "Yucatán"
+      },
+      {
+        "id": 32,
+        "name": "Zacatecas"
+      }
+    ]
+  }
+}
